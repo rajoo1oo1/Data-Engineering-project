@@ -9,5 +9,4 @@ Key Vault: used to manage secrets. Key Vault eliminates the need for developers 
 Azure storage Account: scalable, durable cloud storage, backup, and recovery solutions for any data, big or small.
 Azure Data Factory (ADF): For data orchestration, workflow automation, and running Databricks notebooks.
 Azure Databricks: For data processing, including bronze-to-silver and silver-to-gold transformations using Python notebooks.
-Azure Synapse Analytics: For data warehousing and integration.
 Power BI: For data visualization and interactive reporting.
